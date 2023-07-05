@@ -13,7 +13,7 @@ This repository links all codebases and artifacts relevant to the paper submissi
 * Annotated Gold Standard of INDs (labelled as genuine or not): available soon
 
 ## Evaluation Data:
-This data can be re-created using the executable main objects of the scala implementation, but are published here for convenience
-* Statistics about the performance of the different tIND approaches on the gold standard available (necessary input for the Jupyter notebook that perofrms the genuineness-evaluation) [here](https://drive.google.com/file/d/1ZKFPef-U75OcUNfreG0uFJ75G1xuG7wp/view?usp=sharing)
-* Statistics about the runtime with various parameter settings avilable [here](https://drive.google.com/file/d/10MnH4qDFdhWoWdwSyXo6UujTj1O7yVZW/view?usp=sharing)
+This data can be re-created using the executable main objects of the scala implementation, but is published here for convenience
+* Statistics about the performance of the different tIND approaches on the gold standard available [here](https://drive.google.com/file/d/1ZKFPef-U75OcUNfreG0uFJ75G1xuG7wp/view?usp=sharing). This is the necessary input for the Jupyter notebook that perofrms the genuineness-evaluation.
+* Statistics about the runtime with various parameter settings avilable [here](https://drive.google.com/file/d/10MnH4qDFdhWoWdwSyXo6UujTj1O7yVZW/view?usp=sharing). This is the necessary input for the Jupyter notebook that performs the runtime evaluation.
 
