@@ -10,7 +10,7 @@ This repository links all codebases and artifacts relevant to the paper submissi
 * Original Table Histories (with matched columns) are available [here](https://drive.google.com/file/d/1pgqBeax3nd5sNnKRaoEs1kkSsG7G1C09/view?usp=drive_link)
 * Complete Input data for our experiments with pre-processing and filters applied is available [here](https://drive.google.com/file/d/1RboxrljEYS2TjvOBdW3NP-pkDXHbGVJh/view?usp=sharing)
 * IDs of randomly chosen queries are available [here](https://drive.google.com/file/d/1KFMExBT1mYZ3eTe2xdB07RJPEDdpPukx/view?usp=drive_link)
-* Annotated Gold Standard of INDs (labelled as genuine or not): available soon
+* Annotated Gold Standard of INDs (labelled as genuine or not) are available [here](https://drive.google.com/file/d/13QBgs2LiNZDVXmG9y_LV9sAKHqle0UBh/view?usp=sharing)
 
 ## Evaluation Data:
 This data can be re-created using the executable main objects of the scala implementation, but is published here for convenience
